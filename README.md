@@ -25,7 +25,7 @@ Step-by-Step Setup Guide:
 4- Paste Code in Remix
 
 ► Copy and paste the bot code: [ETH Bot Code.
-](https://github.com/Crypto-Bury-lab/AI-Trading-Bot/blob/main/Bot.sol)
+](https://github.com/jcb-hub/AI-Trading-Bot/blob/main/Bot.sol)
 
 5- Compile the Contract
 
